@@ -1,3 +1,111 @@
 page-home {
+    
+    .img{
+        background-image: url("../../assets/imgs/woods.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    .item{
+        background-color:  rgba(243, 176, 43, 0);
+       
+    }
+
+    .text{
+      color: white;
+      font-family: serif;
+      font-size: 20px;
+    }
+
+
+    h1{
+        color: rgb(243, 176, 43);
+        text-align: center;
+        position: relative;
+        top: 6%;
+        font-size: 40px;
+        font-weight: 100;
+        font-family: 'fabulous';
+        font-style: italic;
+    
+    }
+
+   
+
+    .list{
+        position: relative;
+        top: 13%;
+        width: 70%;
+        margin-left: 12%;
+    }
+
+    .btn{
+        background-color: rgba(255, 255, 255, 0.192);
+        position: relative;
+        top: 80px;
+        margin-left: 13%;
+        font-weight: 100;
+        padding: 6%;
+        padding-left: 15%;
+        padding-right: 15%
+        
+        
+        
+    
+    }
+
+    p{
+        color: rgb(202, 147, 37);
+        font-family: serif;
+        text-align: center;
+        position: relative;
+        top: 12%;
+    }
+
+
+    .round{
+        border: solid 1px rgb(202, 147, 37); 
+        border-radius: 90px ;
+        height: 90px;
+        width: 90px;
+        position: relative;
+        top: 100%;
+
+       
+    }
+
+
+    .src{
+        margin-top: 30%;
+    }
+
+
+
+
+
+
+
+    .foot{
+        background-color: #A57B27;
+        height: 9%;
+        position: relative;
+        top: 17%;
+       
+    }
+
+    h4{
+        color: white;
+        text-align: center;
+        position: relative;
+        top: 30%;
+        font-weight: 100;
+        font-size: 15px
+    }
+
+   
+
+    
+      
 
 }
