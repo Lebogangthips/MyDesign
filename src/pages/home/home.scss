@@ -18,13 +18,17 @@ page-home {
       font-size: 20px;
     }
 
+    .input{
+        color: white;
+    }
+
 
     h1{
-        color: rgb(243, 176, 43);
+        color: #A57B27;
         text-align: center;
         position: relative;
-        top: 6%;
-        font-size: 40px;
+        top: 1%;
+        font-size: 80px;
         font-weight: 100;
         font-family: 'fabulous';
         font-style: italic;
@@ -35,7 +39,7 @@ page-home {
 
     .list{
         position: relative;
-        top: 13%;
+        top: 6%;
         width: 70%;
         margin-left: 12%;
     }
@@ -43,7 +47,7 @@ page-home {
     .btn{
         background-color: rgba(255, 255, 255, 0.192);
         position: relative;
-        top: 80px;
+        top: 20px;
         margin-left: 13%;
         font-weight: 100;
         padding: 6%;
@@ -60,17 +64,19 @@ page-home {
         font-family: serif;
         text-align: center;
         position: relative;
-        top: 12%;
+        top: 4%;
+        font-size: 10%;
     }
 
 
     .round{
         border: solid 1px rgb(202, 147, 37); 
         border-radius: 90px ;
-        height: 90px;
-        width: 90px;
+        height: 70px;
+        width: 70px;
         position: relative;
-        top: 100%;
+        top: 300%;
+        margin-left: 26%;
 
        
     }
@@ -90,7 +96,7 @@ page-home {
         background-color: #A57B27;
         height: 9%;
         position: relative;
-        top: 17%;
+        top: 30%;
        
     }
 
@@ -100,7 +106,7 @@ page-home {
         position: relative;
         top: 30%;
         font-weight: 100;
-        font-size: 15px
+        font-size: 20px
     }
 
    
